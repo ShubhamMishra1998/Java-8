@@ -1,0 +1,15 @@
+
+v
+java:S4276"[Refactor this code to use the more specialised Functional Interface 'UnaryOperator<String>'(‹¶ƒüÿÿÿÿ
+J
+java:S1611"/Remove the parentheses around the "a" parameter(‹¶ƒüÿÿÿÿ
+[
+java:S1612"@Replace this lambda with method reference 'String::toUpperCase'.(‹¶ƒüÿÿÿÿ
+w
+java:S4276"[Refactor this code to use the more specialised Functional Interface 'UnaryOperator<String>'(÷ƒ°18ù«ÏóÖ0
+K
+java:S1611"/Remove the parentheses around the "a" parameter(÷ƒ°18ûØÊóÖ0
+Z	java:S106	"9Replace this use of System.out or System.err by a logger.(õãŒıÿÿÿÿ8ÿÆóÖ0
+Z	java:S106
+"9Replace this use of System.out or System.err by a logger.(¡Ä…·ùÿÿÿÿ8ïßÕóÖ0
+U	java:S106"9Replace this use of System.out or System.err by a logger.(Îí›8„ÏÙóÖ0

@@ -1,0 +1,13 @@
+
+S	java:S106
+"9Replace this use of System.out or System.err by a logger.(î³‰óøÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(˜äö›
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ÑéÜâüÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(«Ûş¼
+S	java:S106"9Replace this use of System.out or System.err by a logger.(æŒ«´ûÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ê³±
+P
+java:S1611"5Remove the parentheses around the "student" parameter(œÙƒÓÿÿÿÿÿ
+J
+java:S1611$"/Remove the parentheses around the "s" parameter(¤êæŸûÿÿÿÿ
+S	java:S106$"9Replace this use of System.out or System.err by a logger.(¤êæŸûÿÿÿÿ

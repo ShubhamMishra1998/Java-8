@@ -1,0 +1,13 @@
+
+h
+java:S4276"RRefactor this code to use the more specialised Functional Interface 'IntPredicate'(´‡Öª
+E
+java:S1611"/Remove the parentheses around the "x" parameter(´‡Öª
+S	java:S106	"9Replace this use of System.out or System.err by a logger.(ÿêÀ¸üÿÿÿÿ
+N	java:S106
+"9Replace this use of System.out or System.err by a logger.(ª™®
+U	java:S106"9Replace this use of System.out or System.err by a logger.(¸÷åÙ8Õÿ˜ñÖ0
+U	java:S106"9Replace this use of System.out or System.err by a logger.(©áÑ¢8¡ò™ñÖ0
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ö­ä¾8¥ò™ñÖ0
+U	java:S106"9Replace this use of System.out or System.err by a logger.(Í‹ù8ô´ ñÖ0
+U	java:S106"9Replace this use of System.out or System.err by a logger.(†ğ¦Í8ù´ ñÖ0
