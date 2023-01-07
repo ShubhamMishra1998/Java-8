@@ -1,0 +1,15 @@
+
+f
+java:S1192"KDefine a constant instead of duplicating this literal "gymnastics" 3 times.(Ûúğºıÿÿÿÿ
+_
+java:S1192"IDefine a constant instead of duplicating this literal "swimming" 7 times.(¬Áè‚
+a
+java:S1192"KDefine a constant instead of duplicating this literal "basketball" 3 times.(¬Áè‚
+b
+java:S1192"GDefine a constant instead of duplicating this literal "female" 3 times.(Ûúğºıÿÿÿÿ
+q
+java:S1104"[Make studentSupplier a static final constant or non-public and provide accessors if needed.(¬Áè‚
+K
+java:S1444"5Make this "public static studentSupplier" field final(¬Áè‚
+P
+java:S1118":Add a private constructor to hide the implicit public one.(±¦Æ‘
