@@ -61,3 +61,7 @@ c
 0src/com/shubham/streams/StreamMinMaxExample.java,2\3\23859fac96a23e522a2ce2f7de9c4906420ebe6f
 d
 4src/com/shubham/streams/StreamsLimitSkipExample.java,2\4\24e9a037e168ced77b32e9754931853585a9428b
+`
+0src/com/shubham/streams/StreamsMatchExample.java,2\0\207d084e0f83715312b9da7ffc1c70d5f525f06f
+f
+6src/com/shubham/streams/StreamFindAnyFirstExample.java,9\4\9407cf59ac93079056133c6dff8349d9aa4395a5
